@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+
+# macOS / IDEs
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.suo
+*.sln

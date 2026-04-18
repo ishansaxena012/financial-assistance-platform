@@ -1,0 +1,14 @@
+
+> backend@1.0.0 dev
+> tsx watch src/index.ts
+
+◇ injected env (6) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+Connected to MongoDB
+Server running at http://localhost:8000
+Connected to Redis
+2:34:22 pm [tsx] change in ./src\routes\sessions.ts Restarting...
+c◇ injected env (6) from .env // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+Connected to MongoDB
+Server running at http://localhost:8000
