@@ -2,7 +2,9 @@ import axios from 'axios';
 import type { SessionOut, SessionWithMessages, ChatResponse, Language, Persona } from '../types';
 
 const api = axios.create({ 
-  baseURL: import.meta.env.VITE_API_URL + '/api'
+  baseURL: import.meta.env.VITE_API_URL 
+    ? `${import.meta.env.VITE_API_URL.replace(/\/+$/, '')}/api` 
+    : '/api' 
 });
 
 api.interceptors.request.use((config) => {
