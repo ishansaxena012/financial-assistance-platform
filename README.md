@@ -2,19 +2,21 @@
 
 > A multilingual Indian finance assistant chat app. Talk about savings, investments, insurance, and money management in English or Hindi featuring stunning UI and Voice mode.
 
+**LIVE DEMO:** [https://financial-assistance-platform-ten.vercel.app/](https://financial-assistance-platform-ten.vercel.app/)
+
 ---
 
 ## ✨ Features
 
 | Feature | Details |
 |---|---|
-| 🌐 Language | English & Hindi |
-| 🎭 Personas | Maa (caring), Banker (formal), Dost (friendly) |
-| 💬 Chat & Voice | Structured text responses + Full Sarvam-powered Voice Pipeline |
-| 🗃️ History | Conversation sessions safely stored in MongoDB |
-| 📈 Tools | Quick Fixed Deposit (FD) Yield Calculators |
-| 🤖 LLM | Gemini 1.5 Flash Ready + Mock Provider |
-| 📱 UI | Mobile-first, warm Indian custom styling (Tailwind v4) |
+| Language | English & Hindi |
+| Personas | Maa (caring), Banker (formal), Dost (friendly) |
+| Chat & Voice | Structured text responses + Full Sarvam-powered Voice Pipeline |
+| History | Conversation sessions safely stored in MongoDB |
+| Tools | Quick Fixed Deposit (FD) Yield Calculators |
+| LLM | Gemini 1.5 Flash Ready + Mock Provider |
+| UI | Mobile-first, warm Indian custom styling (Tailwind v4) |
 
 ---
 
