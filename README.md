@@ -1,4 +1,10 @@
-# 🪔 Lakshmi Didi — लक्ष्मी दीदी
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abbe1173-7b62-4fab-b366-017ff2082e2d" 
+       alt="Lakshmi Didi Logo" 
+       width="150"/>
+</p>
+
+<h1 align="center">Lakshmi Didi — लक्ष्मी दीदी</h1>
 
 > A multilingual Indian finance assistant chat app. Talk about savings, investments, insurance, and money management in English or Hindi featuring stunning UI and Voice mode.
 
