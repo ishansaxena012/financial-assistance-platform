@@ -349,7 +349,7 @@ export default function VoiceScreen() {
                             style={{ boxShadow: '0 6px 24px rgba(92,26,26,0.35)' }}
                         >
                             <Mic size={26} strokeWidth={1.8} />
-                            <span className="text-[9px] font-bold tracking-wider uppercase opacity-80">Tap to Speak</span>
+                            <span className="text-[9px] font-bold tracking-wider uppercase opacity-80">Tap</span>
                         </button>
                     )}
                     {isRecording && (
