@@ -18,4 +18,5 @@ export const settings = {
     ENCRYPTION_KEY: process.env.ENCRYPTION_KEY || "",
     PORT: process.env.PORT || 8000,
     REDIS_URL: process.env.REDIS_URL || "redis://localhost:6379",
+    FRONTEND_URL: process.env.FRONTEND_URL || "http://localhost:5173",
 };
